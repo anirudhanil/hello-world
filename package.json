@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "My first repository on GitHub. It is good.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudhanil/hello-world.git"
+  },
+  "author": "ani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirudhanil/hello-world/issues"
+  },
+  "homepage": "https://github.com/anirudhanil/hello-world#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
